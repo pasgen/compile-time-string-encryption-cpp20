@@ -8,3 +8,5 @@ Usage:<br>
 Disassembly of file with encrypted string (main.cpp):<br>
 ![Encryption demo](/images/string_encryption_demo_1.png)
 ![Encryption demo](/images/string_encryption_demo_2.png)
+
+Obviously requires C++20 enabled in the project's options
